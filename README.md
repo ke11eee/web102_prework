@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img src='https://imgur.com/a/z0uoTNL' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ...  Screen to Gif for Windows
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-My biggest challenge while building the app actually had to do with the secret codes. The prework website was down initially so I had to download the offline version. After that, I had a lot of issues figuring out the correct passwords. Although the scavenger hunt was fun, it definitely extended the amount of time it would've taken me to complete the project - only because of it  being case sensitive etc. The using .js features like .filter or .reduce also took some getting used to, but it wasn't too bad.
+My biggest challenge while building the app actually had to do with the secret codes. The prework website was down initially so I had to download the offline version. After that, I had a lot of issues figuring out the correct passwords. Although the scavenger hunt was fun, it definitely extended the amount of time it would've taken me to complete the project - only because of it being case sensitive etc. The using .js features like .filter or .reduce also took some getting used to, but it wasn't too bad.
 
 ## License
 
